@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[29]:
-
-
 from socket import *
 from Crypto.Cipher import ARC4
 import random
@@ -99,16 +93,4 @@ while True:
     
     
 server_socket.close()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
 
